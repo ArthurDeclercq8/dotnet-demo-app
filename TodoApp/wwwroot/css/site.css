@@ -1,5 +1,5 @@
 html {
-  font-size: 20px;
+  font-size: 14px;
 }
 
 @media (min-width: 768px) {
@@ -25,6 +25,7 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: lightyellow;
 }
 
 .form-floating > .form-control-plaintext::placeholder,
